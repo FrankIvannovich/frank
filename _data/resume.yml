@@ -41,16 +41,14 @@ main: #简历主要内容，
   - title: 数据处理能力
   items: #itmems 可以小块的方式显示
     - 能够使用STATA、Excel进行数据处理
-    - CET4成绩598
-    - CET6成绩474
     summary: Consectetur, Adipiscing, Elit
 
 - type: experience
-  name: 经验
+  name: 个人经历
   content:
-  - title: 职位
-    sub: 某某公司
-    duration: "xxxx年xx月 - yyyy年yy月"
+  - title: 助理实习生
+    sub: 成都兴良信房地产土地资产评估有限责任公司
+    duration: "2020年6月 - 2020年8月"
     tags:
     - 标签
     summary: 职务或者工作总结(自动折叠)
